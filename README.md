@@ -1,2 +1,2 @@
-# Repositorio_teste_estudo_streamlit
-Criando esse repositório para praticar e aprender a integração com o streamlit
+# README
+Repositório criado para praticar e estudar a integração como também a codificação voltada para o streamlit
